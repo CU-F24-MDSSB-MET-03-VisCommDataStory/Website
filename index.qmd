@@ -1,0 +1,171 @@
+---
+title: "Visual Communication and Data Story-telling"
+---
+
+:::{.callout-important collapse=false appearance='default' icon=true}
+## Developing Syllabus
+This syllabus may change during the course of the semester with some additions and clarifications.   
+All substantial changes will marked here with date. 
+:::
+
+## Module Names
+
+- MDSSSB-MET-03 Visual Communication and Data Story-telling (Methods area, 5 credits)
+
+Offered in the [Master program: Data Science for Society and Business (DSSB)](https://constructor.university/programs/graduate-education/data-science-for-society-business). See the module description in the [DSSB Handbook](https://constructor.university/sites/default/files/2023-09/DSSB_MSc_Handbook_16-08-2023_Track%20changes%20.pdf). 
+
+
+## Module Components
+
+The courses is offered in the Fall term. 
+
+Requirements: **Data Science Concepts** and **Data Science Tools**
+
+## Class Meeting Information
+
+Tuesday **09:45-11:00** and **11:15-12:30**    
+Location: **East Hall Room 6** in-person  
+Video streaming in Teams may be provided but does not work for all class activity: Team **F23_MDSSB-MET-03_Visual Communication and Data Story-telling**, General Channel
+
+## Instructors
+
+[**Jan Lorenz**](http://janlo.de) Email: <jlorenz@constructor.univeristy>
+
+
+## Format and Workload
+
+17.5 hours Lectures (including class activities)
+17.5 hours Tutorials (partly prepared by students)
+90 hours Project Work outside Class
+
+
+## Intended Learning Outcomes
+
+The module descriptions can be found in the [DSSB Handbook](https://constructor.university/sites/default/files/2023-09/DSSB_MSc_Handbook_16-08-2023_Track%20changes%20.pdf)  
+
+### From the handbook
+
+By the end of this module, students will be able 
+
+1. visually represent various data sources
+2. choose suitable visual representations for different data sets
+3. evaluate visual depictions of data
+4. assist users in visual data analysis
+5. target visual representations to different audiences
+
+### Additional remark from the instructor
+
+You will build on your experience 
+
+- the small **Data Science Project** in Data Science Tools in the the **1st semester**
+- your **Data Science Lab Project** in the **2nd semester**
+
+Now in the **3rd semester** you will create another Data Science Project. 
+
+This time it will focus much more on communicating insights with data. You will write the report such that a non Data Scientist can enjoy reading it and gain some insights about the datastory you tell. 
+
+
+## Examination and Assessment
+
+From the Handbook:\
+Assessment Type: **Project Report** (6000 - 8000 words)    
+This is the official word count form the handbook. However, I will not count words and I will not assess based on fulfilling the word count. Anyway, essential parts the submissions will be visual. 
+
+**Details about the project report:** The project report is a website
+which tells a data story which is rendered with quarto.   
+
+It includes
+
+1.  a slide deck used to tell the story in a presentation,
+2.  a written report tells the story for readers and gives more details and more visuals, e.g. in Appendices.
+
+Optional the submission can also include a dashboard with interactive graphs which enables individual
+exploration by the reader.
+
+The report must be reproducible. That means the source code must be provided.   
+However, the report must be readable without reading code. The target audience is not a programmer and they should not see code while reading. Technical parts should be in the appendix. 
+
+[A template repo will be provided later.]{style='color:red;'}
+
+<!-- A potential structure and some notes are in the document `index.qmd` in your project's GitHub repository <https://github.com/JU-F22-MDSSB-MET-03/project-YOURNAMES>. Please also use the structure in this document when you produce the report with other tools.  -->
+
+Delivery via GitHub.
+
+:::{.callout-important}
+You can make your data story into a nice thing to **show your competence to the outside world**. It is not too difficult to publish the report as a **website** from your final repository. Make your report such that it is worth to publish and show it!
+:::
+
+
+## Module Policies and expected student engagement and contributions {#sec-stud-contrib}
+
+In this course we work with different methods and most of them require student engagement such as
+
+- reading a chapter before class to discuss it in class
+- preparing something to show to others
+- pitch your project idea to the class
+- engage in a class room activity, like a joint storyboarding session
+- do a final project presentation
+
+For all activities, participation **in person** is best.   
+Some sessions may be streamed and recorded when some students have a valid excuse to not be present. However, there may be activities where this does not work. 
+
+[Some expected contribution will appear here more specific later.]{style='color:red;'}
+
+
+<!-- Instead of extensive required readings between classes all students are -->
+<!-- to prepare some targeted contributions for the course. Many of these -->
+<!-- will be steps on the way to the final project. All these contributions -->
+<!-- are not graded, so you can focus on the content. Contributions will -->
+<!-- probably include -->
+
+<!-- 1.  A warm up individual [homework](hw-01-instr.qmd) with a large part is finding and showing some data visualizations you like and find interesting to your classmates.  -->
+<!-- 2.  An introductory presentation of a certain class of visualizations. -->
+<!--     The topic will be based on <https://www.data-to-viz.com>. The task -->
+<!--     is to provide a use-file with these visualizations for all -->
+<!--     participants and guide the class through. Thereby, technical issues -->
+<!--     as well as the purpose, and good and bad use cases shall be -->
+<!--     discussed.   -->
+<!--     More information about [Student Topics](student-topics.qmd). -->
+<!-- 3.  A short project pitch (3-5 minutes) with an idea for the final -->
+<!--     project -->
+<!-- 4.  An intermediate presentation of the project's data story -->
+<!-- 5.  A final presentation of the project -->
+
+<!-- All (except 1.) can be worked out in teams. -->
+
+## Academic Integrity
+
+All involved parties (professors and lecturers, instructors and students) are expected to abide by the word and spirit of the "Code of Academic Integrity": 
+https://constructor.university/student-life/student-services/university-policies/academic-policies/code-of-academic-integrity. Violations of the Code might be brought to the attention of the Academic Integrity Committee.
+
+## Artifical Intelligence (AI) Use Policy
+
+This policy covers any generative AI tool, such as ChatGPT, Elicit, etc. This includes text, code, slides, artwork/graphics/video/audio and other products.
+
+You are encouraged to using and exploring AI tools for these purposes: 
+
+  - **Learning by dialog with a chatbot.** AI chatbots can be very helpful to explain you concepts *on your desired level* and get a feeling about how certain topics are treated. You can ask for an easier or more detailed explanation or focus on certain aspects. Note: The capabilities are limited and you likely receive a lot of false information! Using chatbots should remain a small part of your learning process. Rule of thumb: Spend not more than 25% of the learing time with chatting. There is no way around reading textbooks, reading software documentation, learning and understanding concepts, searching for help online, asking instructors or fellow students.
+  - **Have code snippets written.** Tools like GitHub Copilot (free to use for students and teachers in VSCode) are heavily used and currently revolutionize code writting a bit. They can speed up writung your code. However, they do not deliver always correct solutions. There is no way around understanding yourself what a code is doing! Do not spend endless hours asking for new code with new prompts, spend time understanding a language and the functions and objects you are using! Copilots can be a great help to get a skeleton of code and an idea how your solution *might* look, they rarely deliver the complete code, expect that the code does not work, expect that the code seems to works but the results are wrong. You are 100% accountable for the code you produce, with or without the help of a copilot!
+  - **Have a draft text snippet written.** Data science is also about formulating and describing research questions, describing data, documenting code, interpreting results, and deriving conclusion form the results. This is all verbal text and chatbots are good in writing text which often appears as well readable. You can use this inspire you and to polish and improve your texts. However, you are 100% accountable for the text you deliver. You are expected to know what your text is about and to be able to answer questions about what your text means! Text generated purely by chatbots, it often becomes evident that you do not. We consider such cases worse than incomplete but sensible text. Also text written by chatbots is often very generic and less specific. In general, we value more specific text higher than generic text. Large parts of very generic text is considered worse than a shorter more specific text. In extreme case, we may a long very generic text will be considered worse than no text at all
+  - Note: **Philosophical and legal questions around the training and use of chatbots and code copilots are controversially contested and re-examined constantly!** We encourage to engage with such questions and become aware of arguments and debates.
+
+If any part of this AI policy is confusing or uncertain, please reach out to us for a conversation before submitting your work.
+
+## Schedule
+
+The [**Schedule**](schedule.qmd) is on an extra page and will be updated continuously. 
+
+
+## Literature
+
+[More learning resources will be provided later.]{style='color:red;'}
+
+During the course we will work on the side through this book: 
+
+*Dykes, B. (2019). Effective Data Storytelling: How to Drive Change with Data, Narrative and Visuals. John Wiley & Sons.*
+
+
+
+## Feedback from Students
+
+We are eager to constantly improve the quality of our teaching. We would be glad to obtain your feedback at any time of the course to improve your learning experience.

@@ -1,0 +1,31 @@
+---
+title: "Schedule"
+---
+
+:::{.callout-important collapse=false appearance='default' icon=true}
+## Developing Schedule
+The schedule is tentative it will be continuously updated also with readings and homework.
+:::
+
+Week | Dates        | Topic                  | Tools          | 
+-----|--------------|------------------------|:--------------:|
+1    | 09-04, 09-07 | What is Data Science? Course Organization, Our software toolkit <br> [Slides Week 1](https://docs.google.com/presentation/d/1NxFoVf7I0wccp5LDLR4wfwclvO61-pSRAscsr1Wzzok/edit?usp=sharing) | R              |
+2    | 09-11, 09-14 | Data import, Data Visualization, Data formats  | R              |
+3    | 09-18, 09-21 | Data Wrangling, Relational Data, Exploratory Data Analysis, Data Science Projects | python         |
+4    | 09-25, 09-28 | Functions, Descriptive Statistics, Principle Component Analysis, Matrices  | python         |
+5    | 10-02, 10-05 | Modeling, Linear Model, Calculus  | R              |
+6    | 10-09, 10-12 | *Classification Problems, Logistic Regression, Prediction*  | python         |
+7    | 10-16, 10-19 | *Probability, Random Variables, Performance Metrics* | R              |
+8    | 10-23, 10-26 | *Statistics , Hypothesis Testing, Simulating Data* | python         |
+9    | 10-30, 11-02 | *Modeling Mindsets, Cluster Analysis*   | R              |
+10   | 11-06, 11-09 | *Domain Knowledge, Communication*  | python         |
+11   | 11-13, 11-16 | *To be decided*  | R              |
+12   | 11-20, 11-23 | *To be decided*  | python         |
+13   | 11-27, 11-30 | *To be decided*  | R / python     |
+14   | 12-04, 12-07 | Course Review, Exam Preparation  | Presentations  |
+
+: {tbl-colwidths="[5, 15, 70, 10]"}
+
+:::{.callout-note collapse=false appearance='default' icon=true}
+All topics in the future are subject to change and adaptation to student needs. *Topics in italics are tentative.*
+:::

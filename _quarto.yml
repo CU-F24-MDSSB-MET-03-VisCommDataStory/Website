@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Visual Communication and Data Storytelling"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Syllabus
+
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Syllabus"
+        file: index.qmd
+      - text: "**Schedule**"
+        file: schedule.qmd
+      - text: "Warm up Homework"
+        file: hw-01.qmd
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    number-sections: true
+
