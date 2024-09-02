@@ -4,28 +4,32 @@ title: "Schedule"
 
 :::{.callout-important collapse=false appearance='default' icon=true}
 ## Developing Schedule
-The schedule is tentative it will be continuously updated also with readings and homework.
+The schedule is tentative it will be continuously updated also with readings, preparation tasks, pointers to student contributions.
+
+**Important Links:**
+
+**GitHub Organization** of the course: <https://github.com/CU-F24-MDSSB-MET-03-VisCommDataStory>
 :::
 
-Week | Dates        | Topic                  | Tools          | 
------|--------------|------------------------|:--------------:|
-1    | 09-04, 09-07 | What is Data Science? Course Organization, Our software toolkit <br> [Slides Week 1](https://docs.google.com/presentation/d/1NxFoVf7I0wccp5LDLR4wfwclvO61-pSRAscsr1Wzzok/edit?usp=sharing) | R              |
-2    | 09-11, 09-14 | Data import, Data Visualization, Data formats  | R              |
-3    | 09-18, 09-21 | Data Wrangling, Relational Data, Exploratory Data Analysis, Data Science Projects | python         |
-4    | 09-25, 09-28 | Functions, Descriptive Statistics, Principle Component Analysis, Matrices  | python         |
-5    | 10-02, 10-05 | Modeling, Linear Model, Calculus  | R              |
-6    | 10-09, 10-12 | *Classification Problems, Logistic Regression, Prediction*  | python         |
-7    | 10-16, 10-19 | *Probability, Random Variables, Performance Metrics* | R              |
-8    | 10-23, 10-26 | *Statistics , Hypothesis Testing, Simulating Data* | python         |
-9    | 10-30, 11-02 | *Modeling Mindsets, Cluster Analysis*   | R              |
-10   | 11-06, 11-09 | *Domain Knowledge, Communication*  | python         |
-11   | 11-13, 11-16 | *To be decided*  | R              |
-12   | 11-20, 11-23 | *To be decided*  | python         |
-13   | 11-27, 11-30 | *To be decided*  | R / python     |
-14   | 12-04, 12-07 | Course Review, Exam Preparation  | Presentations  |
 
-: {tbl-colwidths="[5, 15, 70, 10]"}
+[*Student Preparation Tasks and more detail in the private Organization Repository:*]{style='color:red;'}  
+<https://github.com/CU-F24-MDSSB-MET-03-VisCommDataStory/Course-Organization-Resources>
 
-:::{.callout-note collapse=false appearance='default' icon=true}
-All topics in the future are subject to change and adaptation to student needs. *Topics in italics are tentative.*
-:::
+Week | Dates        | Topic                  | Milestones                                | Reading / Preparation   |
+-----|--------------|------------------------|-------------------------------------------|---------|
+1    | 09-03 | What is Visual Communication? What is Data Storytelling? [Slides Week 1](https://docs.google.com/presentation/d/1-lkWjK82l1x-9ety4AHINQ4UF3VJ9jqPLIT966ZN0D0/edit?usp=sharing) |  |
+2    | 09-10 | Your Data Visualizations from [Homework 1](hw-01-instr.qmd), [Towards Good Graphics, Example](Towards_Great_Visualization_Brexit.qmd), Activity (link to presentation at [Organization repo](https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory/Organization)), [Possible student projects/data sources](https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory/Organization/blob/main/STUDENT_PROJECTS.md) | Homework 1 done.  | |
+3    | 09-17 | Your visualizations from Homework 1 (continued) <br> **Activity:** Visualization with ggplot. **Input:** Data Story Formats (for projects) |  | Dykes: Ch 1 and 2 |
+4    | 09-28 | Individual online meetings: Project topics  | Project topics and teams fixed | |
+5    | 10-01 |      |  | |
+6    | 10-08 | Project pitches (~5 min. per project with first visual and one story point )  | [1](milestones.qmd#m1)  | |
+7    | 10-15 | Project pitches (continued) <br>[Input Ch. 1 and 2. Effective Story Telling](purpose_insights.qmd) Discussing projects main insights  | [2](milestones.qmd#m2) | |
+8    | 10-22 | Class room activity: Drafting Visuals | [3](milestones.qmd#m3) | [Preparations](https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory/Organization/blob/main/README.md#week-7-oct-24) |
+9    | 10-29 | *No class, public holiday*  |  | Dykes: Ch (3), 4, 5, 6 (List of most important parts [here](https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory/Organization#oct-31-public-holiday-no-class)) |
+10   | 11-05 | Class room activity: Storyboarding! <br> [Storyboarding Input](datastorytelling.qmd)  <br> [Example Datastory on Summer Break and COVID19](https://janlorenz.github.io/summerbreakcovid/) for reference    | [4](milestones.qmd#m4) | [Preparations](https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory/Organization/blob/main/README.md#week-8-nov-7) |
+11   | 11-12 | Individual meetings  |   | Dykes: Ch 7 |
+12   | 11-19 | [Finalize your Data Story Presentation](finalize_presentation.qmd)  <br> Activity outside of class for your presentation: <br> Check if you have the essentials for a linear data story (your presentation). For all your visuals, go through the seven aspects, and check if they can be improved. Consult Dyker Ch 7 & 8 for details. |  | Dykes: Ch 8 |
+13   | 11-26 | Student Presentations | [5](milestones.qmd#m5) | |
+14   | 12-03 | Student Presentations | [5](milestones.qmd#m5) | |
+
+: {tbl-colwidths="[5, 10, 50, 20, ]"}
