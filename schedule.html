@@ -313,9 +313,15 @@ Developing Schedule
 <td><a href="./milestones.html#m5">5</a></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td>End of Term</td>
+<td>Submission of final report and slidedeck</td>
+<td><a href="./milestones.html#m6">6</a></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
-<p>Submission of final report and slidedeck as milestone <a href="./milestones.html#m6">6</a></p>
 <section id="r" class="level2">
 <h2 class="anchored" data-anchor-id="r">Reading Remarks on Dykes</h2>
 <p>The purpose of reading is to apply the knowledge for doing your Data Story Project. To that end, some parts require closer reading than others.</p>
@@ -448,7 +454,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/CU-F24-MDSSB-MET-03-VisCommDataStory\.github\.io\/Website\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
