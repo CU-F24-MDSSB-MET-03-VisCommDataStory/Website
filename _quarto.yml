@@ -16,8 +16,6 @@ website:
         file: index.qmd
       - text: "**Schedule**"
         file: schedule.qmd
-      - text: "Homework 1"
-        file: hw-01-instr.qmd
       - text: "Project: Milestones"
         file: milestones.qmd
       

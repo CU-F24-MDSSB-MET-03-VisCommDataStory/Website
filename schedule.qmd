@@ -1,8 +1,11 @@
 ---
 title: "Schedule"
+format:
+  html: 
+    number-sections: false
 ---
 
-:::{.callout-important collapse=false appearance='default' icon=true}
+:::{.callout-important collapse=true appearance='default' icon=true}
 ## Developing Schedule
 The schedule is tentative it will be continuously updated also with readings, preparation tasks, pointers to student contributions.
 
@@ -12,24 +15,65 @@ The schedule is tentative it will be continuously updated also with readings, pr
 :::
 
 
-[*Student Preparation Tasks and more detail in the private Organization Repository:*]{style='color:red;'}  
+[Student **Preparation Tasks** and more detail in the private Organization Repository:]{style='color:red;'}  
 <https://github.com/CU-F24-MDSSB-MET-03-VisCommDataStory/Course-Organization-Resources>
 
-Week | Dates        | Topic                  | Milestones                                | Reading / Preparation   |
+Week | Dates        | Topic                  | Milestones                                | Reading |
 -----|--------------|------------------------|-------------------------------------------|---------|
-1    | 09-03 | What is Visual Communication? What is Data Storytelling? [Slides Week 1](https://docs.google.com/presentation/d/1-lkWjK82l1x-9ety4AHINQ4UF3VJ9jqPLIT966ZN0D0/edit?usp=sharing) |  |
-2    | 09-10 | Your Data Visualizations from [Homework 1](hw-01-instr.qmd), [Towards Good Graphics, Example](Towards_Great_Visualization_Brexit.qmd), Activity (link to presentation at [Organization repo](https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory/Organization)), [Possible student projects/data sources](https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory/Organization/blob/main/STUDENT_PROJECTS.md) | Homework 1 done.  | |
-3    | 09-17 | Your visualizations from Homework 1 (continued) <br> **Activity:** Visualization with ggplot. **Input:** Data Story Formats (for projects) |  | Dykes: Ch 1 and 2 |
-4    | 09-28 | Individual online meetings: Project topics  | Project topics and teams fixed | |
-5    | 10-01 |      |  | |
-6    | 10-08 | Project pitches (~5 min. per project with first visual and one story point )  | [1](milestones.qmd#m1)  | |
-7    | 10-15 | Project pitches (continued) <br>[Input Ch. 1 and 2. Effective Story Telling](purpose_insights.qmd) Discussing projects main insights  | [2](milestones.qmd#m2) | |
-8    | 10-22 | Class room activity: Drafting Visuals | [3](milestones.qmd#m3) | [Preparations](https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory/Organization/blob/main/README.md#week-7-oct-24) |
-9    | 10-29 | *No class, public holiday*  |  | Dykes: Ch (3), 4, 5, 6 (List of most important parts [here](https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory/Organization#oct-31-public-holiday-no-class)) |
-10   | 11-05 | Class room activity: Storyboarding! <br> [Storyboarding Input](datastorytelling.qmd)  <br> [Example Datastory on Summer Break and COVID19](https://janlorenz.github.io/summerbreakcovid/) for reference    | [4](milestones.qmd#m4) | [Preparations](https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory/Organization/blob/main/README.md#week-8-nov-7) |
-11   | 11-12 | Individual meetings  |   | Dykes: Ch 7 |
-12   | 11-19 | [Finalize your Data Story Presentation](finalize_presentation.qmd)  <br> Activity outside of class for your presentation: <br> Check if you have the essentials for a linear data story (your presentation). For all your visuals, go through the seven aspects, and check if they can be improved. Consult Dyker Ch 7 & 8 for details. |  | Dykes: Ch 8 |
-13   | 11-26 | Student Presentations | [5](milestones.qmd#m5) | |
-14   | 12-03 | Student Presentations | [5](milestones.qmd#m5) | |
+1    | 09-03 | [*Class*]{style='color:darkred;'} What is Visual Communication? What is Data Storytelling? [Slides Week 1](https://docs.google.com/presentation/d/1YwFq3PRCBwH5cyRJH7IR1xfTT272VRF81o0CE2FhhpI/pub?start=false&loop=false&delayms=3000) |  |
+2    | 09-10 | [*Class*]{style='color:darkred;'} Visual Communication. Viewing and Playing. [Slides Week 2](https://docs.google.com/presentation/d/1jBs0VpLjKVgmFoZsqPFw2BAbUfUpHZKZCA0C0tGEVHI/pub?start=false&loop=false&delayms=3000)| | [Dykes Ch 1](#r)
+3    | 09-17 | [*Class*]{style='color:darkred;'} Data Storytelling. Project Ideas. <br> [Slides Week 3](https://docs.google.com/presentation/d/1ZXj4zD4au02QtAlroFVlyT2asFtoMnvT-QQvscLnbNE/pub?start=false&loop=false&delayms=3000) |  | [Dykes Ch 2](#r) |
+4    | 09-24 | [Form: Student survey, fill by Fri, Sep 20](https://forms.office.com/e/UZb7NFxLZB) <br> [*Individual meetings*]{style='color:darkgreen;'} Project topics  | [0](milestones.qmd#m0) |  [Dykes Ch 3](#r) |
+5    | 10-01 | [*Class*]{style='color:darkred;'} Project pitches   | | [Dykes Ch 4](#r) |
+6    | 10-08 | [*Class*]{style='color:darkred;'} Project pitches (continued) / Class room activity: Wrap up Readings and Operationalize for your Project   | [1](milestones.qmd#m1) | [Dykes Ch 5](#r) |
+7    | 10-15 | [*Individual meetings*]{style='color:darkgreen;'} Main insights, Data audit | [2](milestones.qmd#m2) | [Dykes Ch 6](#r) |
+8    | 10-22 | [*Class*]{style='color:darkred;'} room activity: Drafting your Visuals | [3](milestones.qmd#m3) | [Dykes Ch 7](#r) |
+9    | 10-29 | [*Class*]{style='color:darkred;'} room activity: Storyboarding!   | [4](milestones.qmd#m4) |  [Dykes Ch 8](#r) |
+10   | 11-05 | [*Individual meetings*]{style='color:darkgreen;'}  |  |  |
+11   | 11-12 | [*Class*]{style='color:darkred;'} room activity: Polishing your Visuals  |   |  |
+12   | 11-19 | [*Individual meetings*]{style='color:darkgreen;'} |  | |
+13   | 11-26 | [*Class*]{style='color:darkred;'} Student Presentations |  | |
+14   | 12-03 | [*Class*]{style='color:darkred;'} Student Presentations | [5](milestones.qmd#m5) | |
+Dec  | End of Term | Submission of final report and slidedeck | [6](milestones.qmd#m6) | | 
 
 : {tbl-colwidths="[5, 10, 50, 20, ]"}
+
+## Reading Remarks on Dykes {#r}
+
+The purpose of reading is to apply the knowledge for doing your Data Story Project. To that end, some parts require closer reading than others. 
+
+- **Chapter 1**: *Introduction to Driving Change through Insight*  
+All
+- **Chapter 2**: *Why Tell Stories with Data?*  
+All
+- **Chapter 3**: *The Psychology of Data Storytelling*    
+   This Chapter is *optional*. Read it if you are interested in the psychology of human perception of facts. Consult the summary in Table 3.1.
+- **Chapter 4**: *The Anatomy of a Data Story* (21 pages intensive reading) 
+   Do an intensive reading of the Sections
+    - The Chapter Introduction including Figure 4.2 *The Analysis Journey: From Storyframing to Storytelling* (pp. 105-110)
+    - *The Six Essential Elements of a Data Story* (pp. 110-118)
+    - *Data Stories Come in All Shapes and Sizes* (pp. 118-121)
+    - *When It Makes Sense to Craft Data Stories and When It Doesn’t* (pp. 139-143)
+      
+    You can skim *Every Story Needs a Storyteller* and *Know Your Audience Before Telling Your
+Story*
+- **Chapter 5**: *Data, The Foundation of Your Data Story* (20 pages intensive reading)   
+  Do an intensive reading of the Sections
+    - The Chapter Introduction (pp. 146-148)
+    - *The Analysis Process: Exploration to Explanation* (pp. 161-168)
+    - *Analyzing and Communicating Data Demands Discipline* (pp. 168-176)
+
+    You can skim *Examine the Building Blocks of Your Data Stories*, *Every Data Story Needs a Central Insight*, *Do You Have an Actionable Insight?*, and *When Too Much of a Good Thing Is Bad*
+ - **Chapter 6**: *Narrative, The Structure of Your Data Story* (14 pages intensive reading) 
+   Do an intensive reading of the Sections
+    - *Defining a Narrative Model for Data Stories* (pp. 186-195)
+    - *Fleshing Out Your Narrative with Story Points* (pp. 195-199)
+   
+    The content of *Storyboarding Your Data Story* will be the basis for the classroom story boarding activity.   
+    You can skim faster through *When They Want Just the Facts*, *Uncovering the Heroes in Your Data Story*, and *Make Your Ideas More Digestible with Analogies*.
+ - **Chapter 7**: *Visuals (Part 1): Setting the Scenes of Your Data Story*  
+ All
+ - **Chapter 8**: *Visuals (Part 2): Polishing the Scenes of Your Data Story*  
+ All
+ - **Chapter 9**: *Crafting Your Own Data Story*  
+ Optional
