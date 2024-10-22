@@ -800,32 +800,60 @@
     "text": "Developing Schedule\n\n\n\n\n\nThe schedule is tentative it will be continuously updated also with readings, preparation tasks, pointers to student contributions.\nImportant Links:\nGitHub Organization of the course: https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory\n\n\n\nStudent Preparation Tasks and more detail in the private Organization Repository:\nhttps://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory/Organization\n\n\n\n\n\n\n\n\n\n\nWeek\nDates\nTopic\nMilestones\nReading / Preparation\n\n\n\n\n1\n09-05\nWhat is Visual Communication? What is Data Storytelling? Slides Week 1\n\n\n\n\n2\n09-12\nYour Data Visualizations from Homework 1, Towards Good Graphics, Example, Activity (link to presentation at Organization repo), Possible student projects/data sources\nHomework 1 done.\n\n\n\n3\n09-19\nYour visualizations from Homework 1 (continued)  Activity: Visualization with ggplot. Input: Data Story Formats (for projects)\n\nDykes: Ch 1 and 2\n\n\n4\n09-26\nIndividual online meetings: Project topics\nProject topics and teams fixed\n\n\n\n-\n10-03\nNo class, public holiday\n\n\n\n\n5\n10-10\nProject pitches (~5 min. per project with first visual and one story point )\n1\n\n\n\n6\n10-17\nProject pitches (continued) Input Ch. 1 and 2. Effective Story Telling Discussing projects main insights\n2\n\n\n\n7\n10-24\nClass room activity: Drafting Visuals\n3\nPreparations\n\n\n-\n10-31\nNo class, public holiday\n\nDykes: Ch (3), 4, 5, 6 (List of most important parts here)\n\n\n8\n11-07\nClass room activity: Storyboarding!  Storyboarding Input  Example Datastory on Summer Break and COVID19 for reference\n4\nPreparations\n\n\n9\n11-14\nIndividual meetings\n\nDykes: Ch 7\n\n\n10\n11-21\nFinalize your Data Story Presentation  Activity outside of class for your presentation:  Check if you have the essentials for a linear data story (your presentation). For all your visuals, go through the seven aspects, and check if they can be improved. Consult Dyker Ch 7 & 8 for details.\n\nDykes: Ch 8\n\n\n11\n11-28\nStudent Presentations\n5\n\n\n\n12\n12-05\nStudent Presentations\n5"
   },
   {
-    "objectID": "Slides_drafting_visuals.html#milestones",
-    "href": "Slides_drafting_visuals.html#milestones",
-    "title": "Drafting your Visuals",
-    "section": "Milestones",
-    "text": "Milestones"
-  },
-  {
-    "objectID": "Slides_drafting_visuals.html#audience",
-    "href": "Slides_drafting_visuals.html#audience",
-    "title": "Drafting your Visuals",
-    "section": "Audience",
-    "text": "Audience\nThink about the audience of your report: The people you imagine to view your presentation or read your report. Describe three different potential individuals in your audience. You are allowed to imagine a broader audience than our class. Answer for example: Who are they? Why are they interested? What is their connection to the topic?"
-  },
-  {
-    "objectID": "Slides_drafting_visuals.html#short-version-of-story",
-    "href": "Slides_drafting_visuals.html#short-version-of-story",
-    "title": "Drafting your Visuals",
-    "section": "Short Version of Story",
-    "text": "Short Version of Story\nAbstract\nWrite a short version of your story in the format of an abstract (6-7 sentences, 150-200 words)\nOne Sentence\nWrite a one-sentence version of the abstract which contains the main point of your report."
-  },
-  {
     "objectID": "Slides_drafting_visuals.html#doing-vs.-presenting",
     "href": "Slides_drafting_visuals.html#doing-vs.-presenting",
     "title": "Drafting your Visuals",
     "section": "Doing vs. Presenting",
-    "text": "Doing vs. Presenting\n\nSource: https://x.com/ItaiYanai/status/1847127686612758569\n\n\n\n\n[MDSSB-MET-03: Visual Communication and Data Storytelling]"
+    "text": "Doing vs. Presenting\n\nSource: https://x.com/ItaiYanai/status/1847127686612758569"
+  },
+  {
+    "objectID": "Slides_drafting_visuals.html#milestones",
+    "href": "Slides_drafting_visuals.html#milestones",
+    "title": "Drafting your Visuals",
+    "section": "Milestones",
+    "text": "Milestones\n2 Main insight 💡\nTarget Achievements:\n\nTarget audience described\nList of main insights in your report drafted (about 3-6 or more when the team is large)\nPrioritized what will be the main insights\n\n3 Visual Drafts 📊📈📉️\nTarget Achievements:\n\nFor each insight\n\na visuals drafted in the report or the presentation (a draft can be a first coded visual, or even photo of a sketch on paper)\nnotes and ideas for the final version"
+  },
+  {
+    "objectID": "Slides_drafting_visuals.html#task-1-audience",
+    "href": "Slides_drafting_visuals.html#task-1-audience",
+    "title": "Drafting your Visuals",
+    "section": "Task 1: Audience",
+    "text": "Task 1: Audience\nThink about the audience of your report:\nThe people you imagine to view your presentation or read your report.\nDescribe three different potential individuals in your audience. You are allowed to imagine a broader audience than our class. Answer for example: Who are they? Why are they interested? What is their connection to the topic?"
+  },
+  {
+    "objectID": "Slides_drafting_visuals.html#task-2-short-version-of-story",
+    "href": "Slides_drafting_visuals.html#task-2-short-version-of-story",
+    "title": "Drafting your Visuals",
+    "section": "Task 2: Short Version of Story",
+    "text": "Task 2: Short Version of Story\nAbstract\nWrite a short version of your story in the format of an abstract (6-7 sentences, 150-200 words)\nOne Sentence\nWrite a one-sentence version of the abstract which contains the main point of your report."
+  },
+  {
+    "objectID": "Slides_drafting_visuals.html#data-variations-to-consider",
+    "href": "Slides_drafting_visuals.html#data-variations-to-consider",
+    "title": "Drafting your Visuals",
+    "section": "Data Variations to Consider",
+    "text": "Data Variations to Consider"
+  },
+  {
+    "objectID": "Slides_drafting_visuals.html#creative-ideas-on-draft-visuals-1",
+    "href": "Slides_drafting_visuals.html#creative-ideas-on-draft-visuals-1",
+    "title": "Drafting your Visuals",
+    "section": "Creative Ideas on Draft Visuals (1)",
+    "text": "Creative Ideas on Draft Visuals (1)"
+  },
+  {
+    "objectID": "Slides_drafting_visuals.html#creative-ideas-on-draft-visuals-2",
+    "href": "Slides_drafting_visuals.html#creative-ideas-on-draft-visuals-2",
+    "title": "Drafting your Visuals",
+    "section": "Creative Ideas on Draft Visuals (2)",
+    "text": "Creative Ideas on Draft Visuals (2)"
+  },
+  {
+    "objectID": "Slides_drafting_visuals.html#activity",
+    "href": "Slides_drafting_visuals.html#activity",
+    "title": "Drafting your Visuals",
+    "section": "Activity",
+    "text": "Activity\nGroup Work: 2 Teams together, each team advises the other\nReporting to class:\nFor each team:\n\nDescribe Target Audience\nOne Sentence Summary of Main Insight\nShow Up to three visuals and how you plan to improve them\n(Optional) you need to explain some specific metrics you use?\n\nTake notes in the DataStory repository\n\n\n\n\n[MDSSB-MET-03: Visual Communication and Data Storytelling]"
   },
   {
     "objectID": "student-topics.html",
