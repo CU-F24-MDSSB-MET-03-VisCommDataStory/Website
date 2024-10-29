@@ -25,10 +25,10 @@ Week | Dates        | Topic                  | Milestones                       
 3    | 09-17 | [*Class*]{style='color:darkred;'} Data Storytelling. Project Ideas. <br> [Slides Week 3](https://docs.google.com/presentation/d/1ZXj4zD4au02QtAlroFVlyT2asFtoMnvT-QQvscLnbNE/pub?start=false&loop=false&delayms=3000) |  | [Dykes Ch 2](#r) |
 4    | 09-24 | [Form: Student survey, fill by Fri, Sep 20](https://forms.office.com/e/UZb7NFxLZB) <br> [*Individual meetings*]{style='color:darkgreen;'} Project topics  | [0](milestones.qmd#m0) |  [Dykes Ch 3](#r) |
 5    | 10-01 | [*Class*]{style='color:darkred;'} Project pitches   | | [Dykes Ch 4](#r) |
-6    | 10-08 | [*Class*]{style='color:darkred;'} Project pitches (continued) / Class room activity: Wrap up Readings and Operationalize for your Project   | [1](milestones.qmd#m1) | [Dykes Ch 5](#r) |
+6    | 10-08 | [*Class*]{style='color:darkred;'} Project pitches (continued) / Class room activity: Wrap up Readings and Operationalize for your Project [Slides](Slides_Ch1-5.qmd)  | [1](milestones.qmd#m1) | [Dykes Ch 5](#r) |
 7    | 10-15 | [*Individual meetings*]{style='color:darkgreen;'} Main insights, Data audit | [2](milestones.qmd#m2) | [Dykes Ch 6](#r) |
-8    | 10-22 | [*Class*]{style='color:darkred;'} room activity: Drafting your Visuals | [3](milestones.qmd#m3) | [Dykes Ch 7](#r) |
-9    | 10-29 | [*Class*]{style='color:darkred;'} room activity: Storyboarding!   | [4](milestones.qmd#m4) |  [Dykes Ch 8](#r) |
+8    | 10-22 | [*Class*]{style='color:darkred;'} room activity: [Drafting your Visuals](Slides_drafting_visuals.qmd) | [3](milestones.qmd#m3) | [Dykes Ch 7](#r) |
+9    | 10-29 | [*Class*]{style='color:darkred;'} room activity: [Storyboarding!](datastorytelling.qmd)   | [4](milestones.qmd#m4) |  [Dykes Ch 8](#r) |
 10   | 11-05 | [*Individual meetings*]{style='color:darkgreen;'}  |  |  |
 11   | 11-12 | [*Class*]{style='color:darkred;'} room activity: Polishing your Visuals  |   |  |
 12   | 11-19 | [*Individual meetings*]{style='color:darkgreen;'} |  | |

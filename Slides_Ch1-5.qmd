@@ -9,7 +9,7 @@ format:
     buttons: true
     preview-links: auto
     logo: img/ConstructorUniversity.png
-    footer: "[CU-F23-MDSSB-MET-03: Visual Communication and Data Storytelling](https://github.com/CU-F23-MDSSB-MET-03-VisCommDataStory)"
+    footer: "[MDSSB-MET-03: Visual Communication and Data Storytelling]"
 bibliography: "/home/janlo/Documents/literature/litlorenz_zot.bib"
 ---
 

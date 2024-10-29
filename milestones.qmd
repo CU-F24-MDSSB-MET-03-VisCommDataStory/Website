@@ -62,7 +62,7 @@ Presentation over MS Teams in class.
 -   Have all your story points (e.g. as post its) drafted as a story board on paper (or in a digital tool).
 -   Draft all slide titles in the presentaton slidedeck. 
 
-## Milestone 5, Week 11-12: **Presentation** 💬  {#m5}
+## Milestone 5, Week 13-14: **Presentation** 💬  {#m5}
 
 -   Finalized your slidedeck as part of the project delivery. (Additional minor graphical improvements are allowed afterwards.)
 -   [Told your data story with the help of your slidedeck in class!]{style="color:red;"}
