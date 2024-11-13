@@ -4,19 +4,8 @@ format:
   html: 
     number-sections: false
 ---
-
-:::{.callout-important collapse=true appearance='default' icon=true}
-## Developing Schedule
-The schedule is tentative it will be continuously updated also with readings, preparation tasks, pointers to student contributions.
-
-**Important Links:**
-
-**GitHub Organization** of the course: <https://github.com/CU-F24-MDSSB-MET-03-VisCommDataStory>
-:::
-
-
-[Student **Preparation Tasks** and more detail in the private Organization Repository:]{style='color:red;'}  
-<https://github.com/CU-F24-MDSSB-MET-03-VisCommDataStory/Course-Organization-Resources>
+ 
+Student projects and student schedules: [Course-Organization-Resources Repo](https://github.com/{{< var org.name >}}/Course-Organization-Resources)
 
 Week | Dates        | Topic                  | Milestones                                | Reading |
 -----|--------------|------------------------|-------------------------------------------|---------|
@@ -30,10 +19,10 @@ Week | Dates        | Topic                  | Milestones                       
 8    | 10-22 | [*Class*]{style='color:darkred;'} room activity: [Drafting your Visuals](Slides_drafting_visuals.qmd) | [3](milestones.qmd#m3) | [Dykes Ch 7](#r) |
 9    | 10-29 | [*Class*]{style='color:darkred;'} room activity: [Storyboarding!](datastorytelling.qmd)   | [4](milestones.qmd#m4) |  [Dykes Ch 8](#r) |
 10   | 11-05 | [*Individual meetings*]{style='color:darkgreen;'}  |  |  |
-11   | 11-12 | [*Class*]{style='color:darkred;'} room activity: Polishing your Visuals  |   |  |
-12   | 11-19 | [*Individual meetings*]{style='color:darkgreen;'} |  | |
-13   | 11-26 | [*Class*]{style='color:darkred;'} Student Presentations |  | |
-14   | 12-03 | [*Class*]{style='color:darkred;'} Student Presentations | [5](milestones.qmd#m5) | |
+11   | 11-12 | [*Class*]{style='color:darkred;'} room activity: [Polishing your Visuals](Slides_polishing_visuals.qmd)  |   |  |
+12   | 11-19 | [*Individual meetings*]{style='color:darkgreen;'} Finalizing your presentation [Short guide to go through and check before the meeting](finalize_presentation.qmd) |  | |
+13   | 11-26 | [*Class*]{style='color:darkred;'} Student Presentations - [Schedule](https://github.com/{{< var org.name >}}/Course-Organization-Resources/blob/main/STUDENTS.md) |  | |
+14   | 12-03 | [*Class*]{style='color:darkred;'} Student Presentations - [Schedule](https://github.com/{{< var org.name >}}/Course-Organization-Resources/blob/main/STUDENTS.md)| [5](milestones.qmd#m5) | |
 Dec  | End of Term | Submission of final report and slidedeck | [6](milestones.qmd#m6) | | 
 
 : {tbl-colwidths="[5, 10, 50, 20, ]"}

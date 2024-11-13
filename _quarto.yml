@@ -7,6 +7,8 @@ website:
     left:
       - href: index.qmd
         text: Syllabus
+      - href: "https://github.com/{{< var org.name >}}"
+        text: GitHub-Organization
 
   sidebar:
     style: "docked"
