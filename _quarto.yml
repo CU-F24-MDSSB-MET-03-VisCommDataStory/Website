@@ -20,6 +20,8 @@ website:
         file: schedule.qmd
       - text: "Project: Milestones"
         file: milestones.qmd
+      - text: "Quarto Hints"
+        file: quarto.qmd
       
 format:
   html:
